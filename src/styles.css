@@ -83,3 +83,7 @@ li {
   font-style: italic;
   margin-left: auto;
 }
+
+a {
+  margin: auto;
+}
